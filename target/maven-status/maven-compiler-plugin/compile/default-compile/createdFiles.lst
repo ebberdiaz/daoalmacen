@@ -1,0 +1,5 @@
+com\emergentes\modelo\Almacen.class
+com\emergentes\utiles\ConexionDB.class
+com\emergentes\controlador\Inicio.class
+com\emergentes\dao\AlmacenDAO.class
+com\emergentes\dao\AlmacenDAOimp.class
